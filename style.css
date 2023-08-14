@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  margin-bottom: 20px;
+  background-color: black;
+  padding: 40px 0px 40px 0px;
+  color: rgb(255, 145, 0);
+  border-radius: 5px 50%;
+}
+
+form {
+  margin-bottom: 20px;
+}
+
+button {
+  padding: 8px 15px;
+  background-color: #ff9900;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+  border-radius: 5px;
+  box-shadow: 5px;
+}
+
+#resultContainer {
+  margin-top: 20px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: orange;
+}
+
+.card img {
+  max-width: 100px;
+}
+
+.error {
+  color: red;
+  font-weight: 900;
+}
